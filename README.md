@@ -27,7 +27,7 @@ steps:
 3d tresure box: by apocalypse_67
 https://free3d.com/3d-model/treasure-chest-91359.html
 
-3d animated zombie: by nathandavis
+3d zombie: by nathandavis
 https://free3d.com/3d-model/zombie-pack-5-zombies-fully-rigged-animated-5522.html
 
 3d spider: by 3dhaupt
@@ -35,3 +35,8 @@ https://free3d.com/3d-model/spider-animated-low-poly-and-game-ready-87147.html
 
 Code references:
 https://docs.unity3d.com/Manual/index.html
+
+Sound effects:
+zombie sound effect: https://www.youtube.com/watch?v=nh8GpzdvvYM
+spider sound effect: https://www.youtube.com/watch?v=bTimNS0cpyU
+gun shot sound effect: https://www.youtube.com/watch?v=0hNmCPg7vko
